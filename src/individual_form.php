@@ -188,7 +188,7 @@ if(isset($_POST['submit'])){
 
     <footer>
         <div class="foot">
-            <p>All Rights Reserved. &copy; 2021 SUGAM KUMAR SINGH</p>
+            <p>All Rights Reserved. &copy; 2021 Blood Bucket</p>
         </div>
     </footer>
 </body>

@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Signing In</title>
+    <link rel="stylesheet" href="../style/style.css">
     <style>
         * {
             padding: 0;
@@ -82,6 +83,7 @@
 </head>
 
 <body>
+    
     <div class="buttons">
         <a href="org_form.php"><button id="orgBtn" onclick="org_form.php"><span>Organisation</span></button></a>
         <a href="individual_form.php"> <button id="indBtn" onclick=""><span> Individual </span></button></a>
